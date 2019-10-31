@@ -1,4 +1,3 @@
 # hello-world
  my first repository
-
-I'm Katherine and I love animals
+Katherine here, I am having a matcha latte right now in the QMUL library.
